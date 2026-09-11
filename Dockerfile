@@ -1,4 +1,4 @@
-FROM itzg/minecraft-server:java8
+FROM itzg/minecraft-server:java17
 
 COPY --chmod=755 scripts/render-start.sh /render-start.sh
 

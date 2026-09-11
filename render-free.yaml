@@ -59,6 +59,4 @@ services:
         value: "true"
       - key: MOTD
         value: "Eaglercraft Survival - Free Test"
-      - key: PLUGINS
-        value: |
-          https://github.com/lax1dude/eaglerxserver/releases/download/v1.1.1/EaglerXServer.jar
+      

@@ -6,3 +6,4 @@ ENV COPY_CONFIG_DEST=/data
 ENV DEBUG=TRUE
 
 ENTRYPOINT ["/render-start.sh"]
+COPY EaglerXServer.jar /plugins/EaglerXServer.jar
